@@ -1,3 +1,4 @@
+@@ Currently working on Corona Simulator, XCode Simulator and IOS build
 This is a module I initially made because I often end up 
 making an intro with images, explaining how to play. 
 When the session of images is done, you will not see it again when 
